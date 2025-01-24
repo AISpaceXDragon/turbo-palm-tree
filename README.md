@@ -2,7 +2,9 @@
 
 ## This repository is created as a part of task given by IISC.
 
-## NOTE:I have forgotten to add the link to the best version notebook(submitted before the deadline), I have resubmitted after the completion of competition. Please apologize me for the mistake and please accept my solution/submission for the task. Link to the public notebook : https://www.kaggle.com/code/srimanthdhondy/fork-of-sample-starting-code
+## NOTE:I have forgotten to add the link to the best version notebook(submitted before the deadline), I have resubmitted after the completion of competition. Please apologize me for the mistake and please accept my solution/submission for the task. 
+## Link to the public notebook with GitHub URL : https://www.kaggle.com/code/srimanthdhondy/fork-of-sample-starting-code. 
+## Link to public notebook(best submission with output file): https://www.kaggle.com/code/srimanthdhondy/sample-starting-code
 
 This task involves fine-tuning IBM granite model on solving partial differential equations, especially heat equation. 
 
