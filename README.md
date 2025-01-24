@@ -10,7 +10,7 @@ Initially I started with understanding what the heat equation is and finding out
 
 The above idea was taken from a research paper as mentioned below:
 
-[Exploring Datasets to Solve Partial Differential Equations with TensorFlow](References/Borzdynski-Borondo-Curbelo.pdf;jsessionid=5AB5FA56AEC7E6CD9B98E466E24784AE-2.pdf)
+[Exploring Datasets to Solve Partial Differential Equations with TensorFlow](references/Borzdynski-Borondo-Curbelo.pdf;jsessionid=5AB5FA56AEC7E6CD9B98E466E24784AE-2.pdf)
 
 Model fine-tuning:
 
