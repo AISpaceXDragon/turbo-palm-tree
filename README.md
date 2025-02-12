@@ -32,8 +32,6 @@ The dataset could be accessed from the hyperlink below.
 
 The code files could be accessed from the hyperlinks below.
 
--->[Click on this for data preprocessing, training, testing notebook]()<--
-
 -->[Click on this for data_generator.ipynb](code/dataset_generator.ipynb)<--
 
 
